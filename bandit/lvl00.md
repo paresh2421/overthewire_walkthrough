@@ -7,4 +7,9 @@ bandit0
 
 # steps
 look for "readme" file and read it
-ls then cat "filename"
+
+```
+ls
+cat "filename"
+
+```
