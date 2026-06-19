@@ -4,12 +4,10 @@ bandit0
 # password
 bandit0
 
-
 # steps
 look for "readme" file and read it
 
 ```
 ls
-cat "filename"
-
+cat readme
 ```
